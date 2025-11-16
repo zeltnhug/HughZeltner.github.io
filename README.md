@@ -1,4 +1,4 @@
-###### Hugh Zeltner
+# Hugh Zeltner
 
 ### Education
 University Of Washngtion Tacoma                          Tacoma, Wa
@@ -11,7 +11,15 @@ South Puget Sound Community College                     Olympia, Wa
 Associate in Arts with a focus in Computer Science 	2022- June 2024
 GPA: 3.6
 
-
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    children:
+      - title: Project A
+        url: /project-a
+      - title: Project B
+        url: /project-b
 
 ### Work Expierence
 Detail Technician                                                                                                                      Tumwater, WA                                                                       
