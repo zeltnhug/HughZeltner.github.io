@@ -1,5 +1,7 @@
 
-![My Photo](IMG_72452(Final).png)
+![My Photo](IMG_72452(Final).png)                  ## Home      
+                                                      Hi, I'm Hugh Zeltner. Welcome to my portfolio.
+
 
 ## Contact me
 - [LinkedIn](https://linkedin.com)
@@ -67,11 +69,4 @@ Hi, I'm Hugh Zeltner. Welcome to my portfolio.
 - Skill 2
 - Experience 1
 
-## Portfolio
-- Project 1
-- Project 2
-
-
-- Email: jack@example.com
-- [LinkedIn](https://linkedin.com)
 
