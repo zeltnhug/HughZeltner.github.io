@@ -7,10 +7,14 @@ Hello I'm Hugh Zeltner, I am
 
 ## Table of Contents
 - [About Me](About-me)
-- [Resume](#resume)
 - [Contact me](#Contact-Me)
-- [Work Expierence](#Work-Expierence)
 - [Education](#Education)
+- [Technical Skills](#Technical-Skills)
+- [Soft Skills](#Soft-Skills)
+- [Work Expierence](#Work-Expierence)
+- [Resume](#resume)
+
+
 
 ## Contact me
 - [LinkedIn](https://www.linkedin.com/in/hugh-zeltner-a36956345/)
@@ -31,7 +35,7 @@ GPA: 3.6
 
 ---
 
-## Technicl Skils
+## Technical Skils
 **Programing Lauanges**
 
 Begginer Scratch, Begginer Java, Begginer Python      
