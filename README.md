@@ -1,5 +1,5 @@
 
-![My Photo](IMG_72452(Final).png)                  ## Home       ***Hello, I'm Hugh Zeltner. Welcome to my portfolio.***
+![My Photo](IMG_72452(Final).png)       ## Home <sub>(Coming Soon)</sub>  ***Hello, I'm Hugh Zeltner. Welcome to my portfolio.***
 
 
 
