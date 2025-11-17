@@ -1,5 +1,5 @@
                                           
-![My Photo](IMG_72452(Final).png)         ***Hello, I'm Hugh Zelnter. Welcome to my portfolio.***
+![My Photo](IMG_72452(Final).png)         *Hello, I'm Hugh Zelnter. Welcome to my portfolio.*
 
 
 
