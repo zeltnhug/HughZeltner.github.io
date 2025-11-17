@@ -62,6 +62,6 @@ GPA: 3.6
 .
 
 ## Resume
-[Download my resume](Hugh Z Resume October 2025.pdf)
+[Download my resume](file:///C:/Users/User/OneDrive/Documents/Hugh%20Z%20Resume%20October%202025.pdf)
 
 
