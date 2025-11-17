@@ -1,5 +1,4 @@
-Hello I'm Hugh Zeltner I'm currently studying Computer Science and Business Administration with a strong interest in using technology to improve others everyday life.
-I’m really passionate about exploring how technogly can help people interact more effectively with the world around them as well as take stress out of every day tasks.
+
 
 ![My Photo](IMG_72452(Final).png)   
 
