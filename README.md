@@ -5,8 +5,8 @@
 
 
 ## Contact me
-- [LinkedIn](https://linkedin.com)
-- Email: jack@example.com
+- [LinkedIn](www.linkedin.com/in/hughzeltner)
+- Email: ZeltnerHugh@gmail.com
 
 
 ## Education
