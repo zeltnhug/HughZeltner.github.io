@@ -43,6 +43,14 @@ GPA: 3.6
 
 
 ---
+### Projects
+Java
+
+
+
+Python
+
+---
 
 ## Work Expierence
 **Detail Technician**
@@ -69,15 +77,6 @@ GPA: 3.6
 -Member of the River Ridge High School Robotics team for two seasons, competing in the nationwide FTC First Tech Challenge.
 
 -Programmed in Java and contributed to designing and building various competition robots.
-
-### Projects
-Java
-
-
-
-Python
-
-
 
 
 
