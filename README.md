@@ -32,9 +32,11 @@ GPA: 3.6
 ---
 
 ## Technicl Skils
+**Programing Lauanges*
+Begginer Scratch, Begginer Java, Begginer Python      
 
-
-
+**Integrated Development Environment (IDE)*
+Jgrasph, Eclipse, intelliJ IDEA
 
 ---
 
