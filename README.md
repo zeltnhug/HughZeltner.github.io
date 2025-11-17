@@ -1,8 +1,16 @@
 
                                           
-![My Photo](IMG_72452(Final).png) ***Hello, I'm Hugh Zeltner Welcome to my portfolio.***
+![My Photo](IMG_72452(Final).png)
 
+**About me**
+Hello I'm Hugh Zeltner, I am 
 
+## Table of Contents
+-[About Me](About-me)
+- [Resume](#resume)
+- [Contact me](#Contact-Me)
+- [Work Expierence](#Work-Expierence)
+- [Education](#Education)
 
 ## Contact me
 - [LinkedIn](https://www.linkedin.com/in/hugh-zeltner-a36956345/)
@@ -52,14 +60,10 @@ GPA: 3.6
 
 ### Projects
 
-# Jack Beeker Portfolio
 
-## Table of Contents
-- [Resume](#resume)
-- [Contact me](#Contact-Me)
-- [Work Expierence](#Work-Expierence)
-- [Education](#Education)
-.
+
+
+
 
 ## Resume
 [Download my resume]([Download my Resume](Hugh%20Z%20Resume%20October%202025.pdf))
