@@ -75,14 +75,10 @@ Enter multiple scores for each class using the console.
 
 **Automatically computes:**
 
-Class average
-
-Highest score
-
-Lowest score
-
-Overall average across all classes
-
+-Class average
+-Highest score
+-Lowest score
+-Overall average across all classes
 
 **Python**
 
@@ -92,13 +88,10 @@ This project is a Multi-Currency Converter that allows users to convert between 
 *Supported Currencies:*
 USD – United States Dollar
 
-EUR – Euro
-
-IQD – Iraqi Dinar
-
-BTC – Bitcoin
-
-JPY – Japanese Yen
+-EUR – Euro
+-IQD – Iraqi Dinar
+-BTC – Bitcoin
+-JPY – Japanese Yen
 
 **Key Features:**
 Convert from any supported currency to another.
