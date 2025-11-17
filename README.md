@@ -1,9 +1,10 @@
-
                                           
 ![My Photo](IMG_72452(Final).png)
 
 **About me**
-Hello I'm Hugh Zeltner, I am 
+Hello I'm Hugh Zeltner, I am studying Computer Science and Buissnes adminasatrion at the Universitry of washigton tacoma. In my free time I like to rock climb and Ski in the winter.
+
+I have a large intrist into all things technolgy, my goal is to get into a job where I can conect people with tech that can improve everyday life. 
 
 ## Table of Contents
 - [About Me](About-me)
@@ -48,7 +49,9 @@ Jgrasph, Eclipse, intelliJ IDEA
 
 ## Soft skills
 
+**Leadership and Teamwork**
 
+**Communication**
 
 ---
 ### Projects
