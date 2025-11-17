@@ -1,4 +1,4 @@
-                                          <h2 id="home" style="margin:0; font-size:0;">&nbsp;</h2>
+                                          
 ![My Photo](IMG_72452(Final).png)         ***Hello, I'm Hugh Zelnter. Welcome to my portfolio.***
 
 
@@ -54,15 +54,11 @@ GPA: 3.6
 # Jack Beeker Portfolio
 
 ## Table of Contents
-- [Home](#home)
 - [Resume](#resume)
-- [Portfolio](#portfolio)
 - [Contact me](#Contact-Me)
 - [Work Expierence](#Work-Expierence)
 - [Education](#Education)
-
-## Home
-Hi, I'm Hugh Zeltner. Welcome to my portfolio.
+.
 
 ## Resume
 - Skill 1
