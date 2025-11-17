@@ -1,6 +1,12 @@
 
 ![My Photo](IMG_72452(Final).png)
-### Education
+
+## Contact me
+- [LinkedIn](https://linkedin.com)
+- Email: jack@example.com
+
+
+## Education
 ***University Of Washngtion Tacoma***                         Tacoma, WA
 Bachelors of Arts in Computer Science      (_2025 – Expected June 2027_)
 Minor in Business Administration (in progress)
@@ -13,9 +19,9 @@ Associate in Arts with a focus in Computer Science 	(_2022 - June 2024_)
 GPA: 3.6
 
 ---
-## Contact
 
-### Work Expierence
+
+## Work Expierence
 **Detail Technician**
 ***X-Clusive Automotive Detailing*** *Tumwater, WA* (_May 2023 – Present_)
 
@@ -49,7 +55,9 @@ GPA: 3.6
 - [Home](#home)
 - [Resume](#resume)
 - [Portfolio](#portfolio)
-- [Contact](#contact)
+- [Contact me](#Contact-Me)
+- [Work Expierence](#Work-Expierence)
+- [Education](#Education)
 
 ## Home
 Hi, I'm Hugh Zeltner. Welcome to my portfolio.
