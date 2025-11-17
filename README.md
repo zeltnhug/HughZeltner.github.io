@@ -13,6 +13,7 @@ Associate in Arts with a focus in Computer Science 	(_2022 - June 2024_)
 GPA: 3.6
 
 ---
+## Contact
 
 ### Work Expierence
 **Detail Technician**
@@ -62,7 +63,7 @@ Hi, I'm Hugh Zeltner. Welcome to my portfolio.
 - Project 1
 - Project 2
 
-## Contact
+
 - Email: jack@example.com
 - [LinkedIn](https://linkedin.com)
 
