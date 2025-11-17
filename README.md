@@ -6,7 +6,7 @@
 Hello I'm Hugh Zeltner, I am 
 
 ## Table of Contents
--[About Me](About-me)
+- [About Me](About-me)
 - [Resume](#resume)
 - [Contact me](#Contact-Me)
 - [Work Expierence](#Work-Expierence)
