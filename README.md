@@ -68,10 +68,10 @@ Collaborated with teammates and coworkers to complete projects safely and effect
 *Grade Tracker*
 This Java program is a Grade Tracking System that allows users to enter multiple class names, record scores for each class, and automatically calculate useful statistics. It uses object oriented programming, Java Collections, user input handling, and basic data analysis.
 
-*Key Features:*
-Add up to 5 classes using a JOptionPane pop-up window.
+**Key Features:**
 
-Enter multiple scores for each class using the console.
+-Add up to 5 classes using a JOptionPane pop-up window.
+-Enter multiple scores for each class using the console.
 
 **Automatically computes:**
 
