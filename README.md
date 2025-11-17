@@ -1,11 +1,14 @@
-Hello I'm Hugh Zeltner
+Hello I'm Hugh Zeltner I'm currently studying Computer Science and Business Administration with a strong interest in using technology to improve others everyday life.
+I’m really passionate about exploring how technogly can help people interact more effectively with the world around them as well as take stress out of every day tasks.
 
 ![My Photo](IMG_72452(Final).png)   
 
 **About me**
-Hello I'm Hugh Zeltner, I am studying Computer Science and Buissnes adminasatrion at the Universitry of washigton tacoma. In my free time I like to rock climb and Ski in the winter.
+Hello I'm Hugh Zeltner, I’m currently studying Computer Science and Business Administration at the University of Washington Tacoma. I’ve always been fascinated by how technogly is alwasys advancing, how people use it, and how it can make life easier when applied thoughtfully.
 
-I have a large intrist into all things technolgy, my goal is to get into a job where I can conect people with tech that can improve everyday life. 
+I’m working toward a career where I can connect people with meaningful technology, whether through software, product development, or technical communication. Helping others understand and use tech effectively is what motivates me.
+
+Outside of academics, I love spending time outdoors. I enjoy rock climbing, and in the winter I like to skiing and snow shoe. These activities push me to stay focused, and always ready to learn just like in the tech feild.
 
 ## Table of Contents
 - [About Me](About-me)
