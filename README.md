@@ -62,8 +62,6 @@ GPA: 3.6
 .
 
 ## Resume
-- Skill 1
-- Skill 2
-- Experience 1
+[Download my resume](Hugh Z Resume October 2025.pdf)
 
 
