@@ -42,5 +42,27 @@ GPA: 3.6
 
 ### Projects
 
+# Jack Beeker Portfolio
 
+## Table of Contents
+- [Home](#home)
+- [Resume](#resume)
+- [Portfolio](#portfolio)
+- [Contact](#contact)
+
+## Home
+Hi, I'm Hugh Zeltner. Welcome to my portfolio.
+
+## Resume
+- Skill 1
+- Skill 2
+- Experience 1
+
+## Portfolio
+- Project 1
+- Project 2
+
+## Contact
+- Email: jack@example.com
+- [LinkedIn](https://linkedin.com)
 
