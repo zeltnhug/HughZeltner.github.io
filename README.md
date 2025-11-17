@@ -44,7 +44,7 @@ GPA: 3.6
 ## Technical Skils
 **Programing Lauanges**
 
-Begginer Scratch, Begginer Java, Begginer Python      
+Beginner Scratch, Beginner Java, Beginner Python      
 
 **Integrated Development Environment (IDE)**
 
