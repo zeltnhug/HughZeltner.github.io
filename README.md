@@ -59,7 +59,11 @@ GPA: 3.6
 -Programmed in Java and contributed to designing and building various competition robots.
 
 ### Projects
+Java
 
+
+
+Python
 
 
 
