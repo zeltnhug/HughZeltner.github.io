@@ -12,12 +12,12 @@ Outside of academics, I love spending time outdoors. I enjoy rock climbing, and 
 
 ## Table of Contents
 - [About Me](About-me)
-- [Contact me](#Contact-Me)
-- [Education](#Education)
-- [Technical Skills](#Technical-Skills)
-- [Soft Skills](#Soft-Skills)
-- [Work Expierence](#Work-Expierence)
-- [Resume](#resume)
+- [Contact me](Contact-Me)
+- [Education](Education)
+- [Technical Skills](Technical-Skills)
+- [Soft Skills](Soft-Skills)
+- [Work Expierence](Work-Expierence)
+- [Resume](resume)
 
 
 
