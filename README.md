@@ -94,7 +94,7 @@ This project is a MultiCurrency Converter that allows users to convert between s
 
 *Supported Currencies:*
 
--USD – United States Dollar
+-USD United States Dollar
 
 -EUR  Euro
 
@@ -108,7 +108,7 @@ This project is a MultiCurrency Converter that allows users to convert between s
 
 Convert from any supported currency to another.
 
-User-friendly text-based interface.
+User friendly text-based interface.
 
 Stores exchange rates in a Python dictionary for easy updates.
 
@@ -133,7 +133,7 @@ Calculates and displays the converted value with clean formatting.
 
 -Cleaned roofs and gutters in both commercial and residential settings.
 
--Learned to work safely and efficiently in a time-sensitive environment.
+-Learned to work safely and efficiently in a time sensitive environment.
 
 -Strengthened customer service skills by clearly communicating project requirements to clients.
 
