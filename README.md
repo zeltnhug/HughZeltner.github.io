@@ -63,7 +63,9 @@ Collaborated with teammates and coworkers to complete projects safely and effect
 ---
 ### Projects
 **Java**
+
 ![Grade Tracker GUI](CaptureProjectCutout.PNG)
+
 *Grade Tracker*
 
 This Java program is a Grade Tracking System that allows users to enter multiple class names, record scores for each class, and automatically calculate useful statistics. It uses object oriented programming, Java Collections, user input handling, and basic data analysis.
