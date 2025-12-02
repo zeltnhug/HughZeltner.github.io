@@ -2,7 +2,7 @@
 
 ![My Photo](IMG_72452(Final).png)   
 
-**About Me**
+## About Me
 
 Hello I'm Hugh Zeltner, I’m currently studying Computer Science and Business Administration at the University of Washington Tacoma. I’ve always been fascinated by how technology is always advancing, how people use it, and how it can make life easier when applied thoughtfully.
 
