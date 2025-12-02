@@ -83,7 +83,8 @@ This Java program is a Grade Tracking System that allows users to enter multiple
 -Overall average across all classes
 
 **Python**
-
+![Curency Converter py](CaptureCurrencyConvert.PNG)
+ 
 *Python Project 
 *Multi Currency Converter*
 This project is a MultiCurrency Converter that allows users to convert between several major world currencies using predefined exchange rates. It demonstrates strong Python fundamentals, including input handling, data structures, arithmetic operations, and clean program design.
