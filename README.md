@@ -4,11 +4,11 @@
 
 **About me**
 
-Hello I'm Hugh Zeltner, I’m currently studying Computer Science and Business Administration at the University of Washington Tacoma. I’ve always been fascinated by how technogly is alwasys advancing, how people use it, and how it can make life easier when applied thoughtfully.
+Hello I'm Hugh Zeltner, I’m currently studying Computer Science and Business Administration at the University of Washington Tacoma. I’ve always been fascinated by how technology is always advancing, how people use it, and how it can make life easier when applied thoughtfully.
 
-I’m working toward a career where I can connect people with meaningful technology, whether through software, product development, or technical communication. Helping others understand and use tech effectively is what motivates me.
+I’m working toward a career where I can connect people with meaningful technology whether through software, product development, or technical communication. Helping others understand and use tech effectively is what motivates me.
 
-Outside of academics, I love spending time outdoors. I enjoy rock climbing, and in the winter I like to skiing and snow shoe. These activities push me to stay focused, and always ready to learn just like in the tech feild.
+Outside of academics, I love spending time outdoors. I enjoy rock climbing, and in the winter I like skiing and snowshoeing. These activities push me to stay focused and always ready to learn, just like in the tech field.
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -43,7 +43,7 @@ GPA: 3.6
 ## Technical Skils
 **Programing Lauanges**
 
-Beginner Scratch, Beginner Java, Beginner Python      
+ Scratch, Java, Python      
 
 **Integrated Development Environment (IDE)**
 
