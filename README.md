@@ -40,7 +40,7 @@ GPA: 3.6
 
 ---
 
-## Technical Skils
+## Technical Skills
 **Programing Lauanges**
 
  Scratch, Java, Python      
@@ -111,7 +111,7 @@ Calculates and displays the converted value with clean formatting.
 
 ---
 
-## Work Expierence
+## Work Experience
 **Detail Technician**
 ***X-Clusive Automotive Detailing*** *Tumwater, WA* (_May 2023 – Present_)
 
