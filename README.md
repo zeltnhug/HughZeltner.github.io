@@ -93,7 +93,8 @@ This Java program is a Grade Tracking System that allows users to enter multiple
 This project is a MultiCurrency Converter that allows users to convert between several major world currencies using predefined exchange rates. It demonstrates strong Python fundamentals, including input handling, data structures, arithmetic operations, and clean program design.
 
 *Supported Currencies:*
-USD – United States Dollar
+
+-USD – United States Dollar
 
 -EUR  Euro
 
