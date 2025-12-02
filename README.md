@@ -27,7 +27,7 @@ Outside of academics, I love spending time outdoors. I enjoy rock climbing, and 
 
 
 ## Education
-***University Of Washngtion Tacoma***                         Tacoma, WA
+***University Of Washington Tacoma***                         Tacoma, WA
 Bachelors of Arts in Computer Science & Minor in Business Administration(_2025 – Expected June 2027_)
 (in progress)
 
@@ -41,13 +41,13 @@ GPA: 3.6
 ---
 
 ## Technical Skills
-**Programing Lauanges**
+**Programing Languages**
 
  Scratch, Java, Python      
 
 **Integrated Development Environment (IDE)**
 
-Jgrasph, Eclipse, intelliJ IDEA
+Jgrasp, Eclipse, intelliJ IDEA
 
 ---
 
