@@ -99,9 +99,9 @@ USD – United States Dollar
 
 -IQD  Iraqi Dinar
 
--BTC  Bitcoin
+-GDP  Britain
 
--JPY  Japanese Yen
+-CAD  Canadian Dollar
 
 **Key Features:**
 
