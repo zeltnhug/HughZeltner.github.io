@@ -11,13 +11,13 @@ I’m working toward a career where I can connect people with meaningful technol
 Outside of academics, I love spending time outdoors. I enjoy rock climbing, and in the winter I like to skiing and snow shoe. These activities push me to stay focused, and always ready to learn just like in the tech feild.
 
 ## Table of Contents
-- [About Me](About-me)
-- [Contact me](Contact-Me)
-- [Education](Education)
-- [Technical Skills](Technical-Skills)
-- [Soft Skills](Soft-Skills)
-- [Work Expierence](Work-Expierence)
-- [Resume](resume)
+- [About Me](#about-me)
+- [Contact Me](#contact-me)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
+- [Soft Skills](#soft-skills)
+- [Work Experience](#work-experience)
+- [Resume](#resume)
 
 
 
